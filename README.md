@@ -1,6 +1,6 @@
-# string-parameters-parser
+# @arondilbe/string-parameters-parser
 
-- [string-parameters-parser](#string-parameters-parser)
+- [@arondilbe/string-parameters-parser](#arondilbestring-parameters-parser)
   - [About the package](#about-the-package)
   - [How to use the parser](#how-to-use-the-parser)
     - [Example](#example)
