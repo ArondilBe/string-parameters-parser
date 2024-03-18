@@ -1,6 +1,7 @@
 {
   "name": "@arondilbe/string-parameters-parser",
   "version": "1.0.0",
+  "private": "false",
   "description": "Small package to parse parameters in a string to set their corresponding values",
   "keywords": [
     "parser",
